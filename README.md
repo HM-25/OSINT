@@ -1,1 +1,1 @@
-# What-is-OSINT
+OSINT
