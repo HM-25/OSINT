@@ -11,3 +11,40 @@ all use to do the work of collecting information every day.
 Much of this information simply isn’t able to be retrieved through search engines and requires knowledge
 of where the right database is located to get the right answers. Fortunately, there are a multitude of tools 
 that both beginners and seasoned investigators can take advantage of to use OSINT sources while conducting research.
+
+What Should I Do for OSINT to Protect My Organization?
+
+Every organization creates data, and much of this data may be public if it’s produced or recorded by a local or state government.
+Aside from business data, technical data from registration or development of websites or products can expose information about
+the internal workings of an organization that might otherwise be impossible to find.
+
+The first thing to know about OSINT is that it cuts both ways, and the same data used to learn about a competitor can 
+also be used to infer information about your company or organization. It can be incredibly rewarding to discover what
+information about you might be more public than you expect and understand how an outsider could know internal details
+about your organization that make it easier to attack.
+How Do I Conduct an OSINT Investigation?
+
+An OSINT investigation starts with answering an answerable question. Because there is no shortage of data out there, 
+it’s easy to get lost in all the noise if what you’re looking for isn’t clear and answerable in the first place. 
+An example of this might be questioning “is New York safer than Los Angeles?” versus “Have reports of police misconduct 
+increased in Los Angeles county since 1999?” One question calls for an opinion and is difficult to answer,
+where the second can be easily answered by finding the right record holder.
+
+After establishing the question to answer, the next step is to identify the most likely owner of the best quality data.
+Primary source information like government or corporate data are the best sources, followed by information created by 
+trade-based organizations or non-governmental agencies (NGO’s) related to the industry or trade your question is related to. 
+Finally, third-party aggregators of data can provide useful links back to a primary source of data, although this “tertiary” 
+data cannot be used as evidence. 
+
+Generally, an investigation will develop an understanding of a subject by asking answerable questions and using the 
+best quality answers to paint a picture. While third-party reports like a newspaper quoting another source are useful,
+it’s important to be critical of the sources you find during an OSINT investigation. Because there is so much information, 
+much of it inaccurate or published by unreliable sources, OSINT researchers must be extremely critical of the sources of data 
+used, preferring only to use verified primary source data to draw conclusions. 
+OSINT Frameworks & Tools
+
+Because OSINT covers so many different types of data, there are many different types of investigations that can be conducted. 
+This ranges from social media investigations using free tools to comb through vast amounts of Tweets, to geospatial 
+investigations using satellite imagery to locate where photos were taken. 
+
+There are many different resources for investigators looking for more OSINT tools, including the osintframework.com website which lists a huge number of data sources for different types of OSINT investigations. There are also many fantastic free OSINT tools on Github, many of them curated into this “Awesome-OSINT” list.
