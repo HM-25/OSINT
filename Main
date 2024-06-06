@@ -1,0 +1,13 @@
+What is OSINT?
+Open source intelligence or OSINT, is often utilized by hackers and red teams,
+to leverage public data while conducting investigations, often using database searches.
+
+OSINT stands for open source intelligence and refers to the practice of collecting data from free sources 
+that are available to the general public. As information becomes more available from a vast number of sources, 
+skilled researchers can often find nearly any type of data they’re looking for, provided they know where to look. 
+These sources include both public and private databases that hackers, journalists, spies, and ordinary people 
+all use to do the work of collecting information every day.
+
+Much of this information simply isn’t able to be retrieved through search engines and requires knowledge
+of where the right database is located to get the right answers. Fortunately, there are a multitude of tools 
+that both beginners and seasoned investigators can take advantage of to use OSINT sources while conducting research.
