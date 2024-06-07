@@ -1,0 +1,9 @@
+Different OSINT tools used to conduct security threat assessments and investigations.
+
+    Using UrlScan.io to scan for malicious URLs.
+
+    Using Abuse.ch to track malware and botnet indicators.
+
+    Investigate phishing emails using PhishTool
+
+    Using Cisco's Talos Intelligence platform for intel gathering.
