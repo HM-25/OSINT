@@ -6,9 +6,9 @@ Study notes on **Open Source Intelligence (OSINT)**: collecting and analysing in
 
 | File | Topic |
 |------|-------|
-| [Main](Main) | What OSINT is, who uses it and why it matters |
-| [OSINT TOOLS](OSINT%20TOOLS) | Tools for threat assessments and investigations, such as urlscan.io and abuse.ch |
-| [Framework](Framework) | Link to the OSINT Framework, a categorised directory of OSINT resources |
+| [Main](Main.md) | What OSINT is, who uses it and why it matters |
+| [OSINT TOOLS](OSINT%20TOOLS.md) | Tools for threat assessments and investigations, such as urlscan.io and abuse.ch |
+| [Framework](Framework.md) | Link to the OSINT Framework, a categorised directory of OSINT resources |
 
 ## Useful resources
 
